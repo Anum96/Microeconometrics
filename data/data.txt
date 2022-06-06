@@ -1,5 +1,5 @@
 Please feel free to access the data for this study, for the purpose of replicating or viewing the content of the research paper, from this website:
-_https://www.aeaweb.org/articles?id=10.1257/app.20160004_
+https://www.aeaweb.org/articles?id=10.1257/app.20160004
 
 For further information, the data sets that were used for this replication of this research paper have been listed below for your convenience:
 1. bh_enroll_data_reg.dta
