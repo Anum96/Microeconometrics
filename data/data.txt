@@ -1,6 +1,9 @@
 Please feel free to access the data for this study, for the purpose of replicating or viewing the content of the research paper, from this website:
 https://www.aeaweb.org/articles?id=10.1257/app.20160004
 
+In order to import and use the data, please save the data sets as a zip file, specifically named as "original_data.zip". After running the code this should generate a folder "out", within this folder it will create the folder "data",  this folder will now contain the data sets. 
+
+
 For further information, the data sets that were used for this replication of this research paper have been listed below for your convenience:
 1. bh_enroll_data_reg.dta
 2. data-for-fig-2.dta
